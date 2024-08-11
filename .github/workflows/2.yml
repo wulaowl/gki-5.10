@@ -20,7 +20,7 @@ jobs:
           kernel-branch: villhaze-new
           config: gki_defconfig
           arch: arm64
-          aosp-gcc: false
+          aosp-gcc: true
           aosp-clang: true
           android-version: 12
           aosp-clang-version: r416183b1
